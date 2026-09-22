@@ -1,0 +1,6 @@
+{
+  "name": "PCA Swiss",
+  "description": "Explicación pedagógica interactiva del algoritmo PCA con el dataset Swiss, cálculo de componentes principales y método del codo (scree plot).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
